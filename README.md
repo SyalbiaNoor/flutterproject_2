@@ -93,4 +93,4 @@ For now, I'm still unable to fix it and I will try my best to fix the problems i
 
 ------
 
-_This project was made with the help of ChatGPT and Youtube resources_
+_This project was made with the help of ChatGPT, Isar Database Official Website, and Youtube resources_
