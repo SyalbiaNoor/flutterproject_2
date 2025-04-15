@@ -55,7 +55,7 @@ to integrate isar, a high-performance database for persistent data storage.
     - `addhabit` writes new habits to the database.
     - `edithabitname` updates habit names directly in the database.
     - `deletehabit` removes habits from the database.
-    - `loadhabits` retrieces all habits when the app starts.
+    - `loadhabits` retrieves all habits when the app starts.
    
 ## Problems Faced and Solution Attempts
 
